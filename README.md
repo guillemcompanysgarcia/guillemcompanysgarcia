@@ -1,8 +1,11 @@
 ## Hi there 👋
 
+Starting a new journey to expand my knowledge!
+
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/668fd0b0600e4dccf235bf5e?variant=dark&roadmaps=aws" alt="roadmap.sh"/></a>
 
+:)
 <!--
 **guillemcompanysgarcia/guillemcompanysgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
